@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "kleber-swf.unity-code-snippets",
+    "ms-vscode.remote-repositories",
+    "github.remotehub",
+    "github.vscode-pull-request-github",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "gruntfuggly.todo-tree",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
